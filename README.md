@@ -249,10 +249,4 @@ README.md
 
 ---
 
-# Author
 
-**Mohamed Mahmoud Elkholy**
-
-CCNA | Enterprise Networking | Windows Server
-
-Open to Networking & IT Infrastructure Opportunities.
