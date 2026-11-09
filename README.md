@@ -6,7 +6,6 @@
 
 ![Cisco](https://img.shields.io/badge/Cisco-IOS-blue?style=for-the-badge&logo=cisco)
 ![GNS3](https://img.shields.io/badge/GNS3-Lab-red?style=for-the-badge)
-![Windows Server](https://img.shields.io/badge/Windows_Server-2019-0078D7?style=for-the-badge)
 ![OSPF](https://img.shields.io/badge/OSPF-Dynamic_Routing-success?style=for-the-badge)
 ![HSRP](https://img.shields.io/badge/HSRP-High_Availability-orange?style=for-the-badge)
 ![DHCP](https://img.shields.io/badge/DHCP-Windows_Server-green?style=for-the-badge)
